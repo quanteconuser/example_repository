@@ -1,2 +1,2 @@
 # example_repository
-A repository to model the GitHub workflow
+A repo to model the GitHub workflow
